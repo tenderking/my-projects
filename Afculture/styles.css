@@ -1,0 +1,74 @@
+.myHeader {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  margin: 0;
+  background: #EB864D;
+  position: fixed;
+}
+
+.wrapper {
+  position: absolute;
+  width:90%;
+  height: 100%;
+  left: 31px;
+  top: 78px;
+  background: #F9C746;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 0px;
+  padding-left: 20px;
+  border-left-style: solid;
+  border-left-width: 0px;
+  padding-right: 20px;
+}
+
+.tex {
+  position: absolute;
+  width: 284px;
+  height: 120px;
+  left: 162px;
+  top: 310px;
+  font-family: Frank Ruhl Libre;
+  font-style: normal;
+
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.4px;
+  color: #00596C;
+}
+
+#myimage {
+  height: auto;
+  width: auto;
+}
+
+.my-btn {
+  width: auto;
+  height: auto;
+  padding-right: 40px;
+  padding-top: 50px;
+  position: relative;
+  float: right;
+
+
+}
+#signIn{
+  padding-right: 20px;
+}
+#mymenu{
+  width: 50px;
+  height: 50px;
+}
+
+.wrapper2 {
+  position: relative;
+  left: 31px;
+  top: 78px;
+  background: #C8C746;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
